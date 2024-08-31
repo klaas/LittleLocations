@@ -6,11 +6,12 @@ All things Little Locations
 
 1. Go to https://takeout.google.com to create an export of your places stored with Google.
 
-   ![aoeu2](img/takeout_fullpage Medium.png)
-
-   ![aoeu3](img/t.jpeg "aoeu") aoeuaoe
+   ![Takeout Page](img/takeout_page.png)
 
 2. To avoid long waiting times firstly click "Deselect all". Then select at least "Maps (your places)" which contain your custom Google Maps Lists and "Saved" which contains your favourite places. Optionally select "Maps" which contains your reviews and uploaded photos related to maps.
+
+   ![Takeout Page](img/takeout_maps.png)
+   ![Takeout Page](img/takeout_saved.png)
 
 Use the "Next step" button at the bottom to go to the next page.
 
